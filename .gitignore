@@ -162,8 +162,8 @@ cython_debug/
 
 # Folders
 logs
-files/applicants/Frontend-разработчик
-files/applicants/Менеджер по продажам
+Frontend-разработчик
+Менеджер по продажам
 
 # Files
 *.xlsx

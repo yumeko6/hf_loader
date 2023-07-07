@@ -16,6 +16,12 @@ source venv/Scripts/activate
 pip install -r requirements.txt
 ```
 
+##### Создайте файл .env, 
+##### Запишите в него переменную BASE_STAGE_URL и присвойте ей url песочницы
+```python
+touch .env
+```
+
 ##### Запустите скрипт командой
 ```python
 python main.py -p <path_to_base> -t <api_token>

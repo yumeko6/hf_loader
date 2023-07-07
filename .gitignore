@@ -162,12 +162,3 @@ cython_debug/
 
 # Folders
 logs
-Frontend-разработчик
-Менеджер по продажам
-
-# Files
-*.xlsx
-*.xls
-*.pdf
-*.doc
-*.docx

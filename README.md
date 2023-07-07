@@ -16,8 +16,8 @@ source venv/Scripts/activate
 pip install -r requirements.txt
 ```
 
-##### Создайте файл .env, 
-##### Запишите в него переменную BASE_STAGE_URL и присвойте ей url песочницы
+##### Создайте файл .env
+##### Добавьте в .env строку https://dev-100-api.huntflow.dev/v2/
 ```python
 touch .env
 ```

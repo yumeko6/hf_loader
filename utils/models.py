@@ -43,15 +43,3 @@ class Applicant(BaseModel):
 	filepath: FilePath | None
 	mime_type: str | None
 	externals: list[Externals] | None
-
-
-a = [
-	{
-		'data': {
-			'body': 'asd'
-		},
-		'files': 1
-	}
-]
-
-

@@ -17,7 +17,7 @@ pip install -r requirements.txt
 ```
 
 ##### Создайте файл .env
-##### Добавьте в .env строку https://dev-100-api.huntflow.dev/v2/
+##### Добавьте в .env строку BASE_DEV_URL=https://dev-100-api.huntflow.dev/v2/
 ```python
 touch .env
 ```

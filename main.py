@@ -235,7 +235,7 @@ def main(path: str) -> None:
 if __name__ == '__main__':
 	root_path = os.getcwd()
 	logging.basicConfig(
-		filename=f'{root_path}/logs/main.log',
+		filename=f'{root_path}/main.log',
 		level=logging.DEBUG,
 		format='%(levelname)s %(asctime)s %(message)s',
 		datefmt='%Y/%m/%d %I:%M:%S %p'
